@@ -679,6 +679,7 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,linux,vim,emacs,sublimetext,visualstudio,visualstudiocode,intellij+all,asdf
 .nx/cache
+tmp/
 
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
