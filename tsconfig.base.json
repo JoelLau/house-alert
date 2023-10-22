@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@joellau/property-guru": ["property-guru/src/index.ts"]
+      "@joellau/property-guru": ["libs/property-guru/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
